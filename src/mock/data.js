@@ -2,9 +2,9 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: 'Aneta Stojanowska | Product Designer', // e.g: 'Name | Developer'
+  title: 'Aneta Stojanowska | UX/UI Designer', // e.g: 'Name | Developer'
   lang: 'nl, en, pl', // e.g: en, es, fr, jp
-  description: `I'm a Product Designer and I build beautifully designed web and mobile projects. With UX/UI practices I use the latest trends in the industry. I'm a problem solver and blogger. My ambition is to make the client happy with a user-friendly digital products. Could you use some help on design and front-end? Or do you have any questions? Git in touch!`, // e.g: Welcome to my website
+  description: `Professional and enthusiastic UX/UI Designer with front-end skills en knowledge of web and mobile design and UX.`, // e.g: Welcome to my website
 };
 
 // PROJECTS DATA
